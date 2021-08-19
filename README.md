@@ -12,5 +12,12 @@ Base, Bug Fixes, Modules | 
   
     
 
+-🔭 I’m currently working on [NexussirV1] (https://github.com/nexusNw/Nexus_sir)
+
+- 💬 Ask me about **ME**
+
+- 📫 How to reach me **insta:- nexus.efx**
+
+- ⚡ **I THINK IAM VERY POSITIVE**
 
 
