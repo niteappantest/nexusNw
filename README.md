@@ -1,23 +1,39 @@
+## <!-- Typing SVG -->
+<p align="center">
+    <a href="https://git.io/J0hKr">
+        <img
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+ꪀꫀ᥊ꪊ𝘴+ꪀ᭙'𝘴+Profile."
+            alt="Typing SVG"
+        />
+    </a>
+</p>
 <div align="center">
-Its_me_Nexus
+  <p align="center">
+<img src="ρꪀᧁ" alt="𝓲ꪑᧁ" width="128" height="128"/>
+</p>
+ <p align="center">
+<a href="#"><img title="FARHANDQZ" src="https://img.shields.io/badge/FARHAN-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+  <p align="center">
+<a href="https://github.com/farhan-dqz"><img title="Author" src="https://img.shields.io/badge/Author-farhan-dqz/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
+</p>
+</div>
+<p align="center">
+Project created by <a href="https://github.com/farhan-dqz">Farhan-dqz</a> to make it public
+    <br>
+       | © |
+        Reserved |
+    <br> 
+</p>
 
-<div align="center">
-  <img src=https://i.imgur.com/DvJKaDy.jpeg>
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/farhan-dqz/JulieMwol&title=Profile%20Views)
 
+----
+<p align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhan-dqz&show_icons=true&theme=dark&locale=en&layout=compact" alt="farhan-dqz" /></p>
 
-----|
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhan-dqz&show_icons=true&theme=dark&locale=en" alt="farhan-dqz" /></p>
 
-[Its_me_Nexus](https://github.com/nexusNw)  |
-Base, Bug Fixes, Modules | 
-  
-    
-
--🔭 I’m currently working on [NexussirV1] (https://github.com/nexusNw/Nexus_sir)
-
-- 💬 Ask me about **ME**
-
-- 📫 How to reach me **insta:- nexus.efx**
-
-- ⚡ **I THINK IAM VERY POSITIVE**
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xxirfanx&theme=dark" alt="farhan-dqz" /></p>
+</p>
+ 
