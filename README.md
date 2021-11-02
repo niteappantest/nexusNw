@@ -9,7 +9,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src="20210916_124636.png" alt="img" width="400" height="400"/>
+<img src="https://github.com/nexusNw.png?size=200.png" alt="img" width="400" height="400"/>
 </p>
  <p align="center">
 <a href="#"><img title="ℕ𝕖𝕩𝕦𝕤 ℕ𝕨☯︎" src="https://img.shields.io/badge/ℕ𝕖𝕩𝕦𝕤-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
